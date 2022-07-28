@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">In my second project in the full-stack web development course at Driven Education I've made an Instagram clone, the page have different layouts: one for desktop and two for mobile. In this project I've used the following technologies: HTML, CSS, Git and GitHub.</p>
+<p align="left">In my seventh project in the full-stack web development course at Driven Education I've made a React version of my second project in this course, the page have different layouts: one for desktop and two for mobile. The purpose of this project is to bring the initial steps of the React study, adressing topics such as componentization and much more. In this project I've used the following technologies: HTML, CSS, JavaScript, React, Webpack, Git and GitHub.</p>
 
 ###
 
